@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+}
+
+div.container{
+    
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+form{
+    border: 1px dashed;
+    display: flex;
+    width: 20%;
+    height: 30%;
+    flex-direction: column;
+    justify-content: space-between;
+}
